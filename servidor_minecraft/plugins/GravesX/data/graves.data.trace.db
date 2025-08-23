@@ -1,0 +1,51 @@
+2025-08-23 16:15:34.039278Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S04 not found); SQL statement:
+SELECT * FROM grave; [42104-232]
+2025-08-23 16:15:34.309491Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_name_display VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.310116Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_name VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.310637Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS uuid VARCHAR(255) UNIQUE [42102-232]
+2025-08-23 16:15:34.312620Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_uuid VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.312767Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_texture_signature TEXT [42102-232]
+2025-08-23 16:15:34.312991Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS killer_type VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.313100Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE grave ADD COLUMN IF NOT EXISTS owner_type VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.318883Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE hologram ADD COLUMN IF NOT EXISTS uuid_entity VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.319472Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE block ADD COLUMN IF NOT EXISTS location VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.319647Z jdbc[5]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE itemframe ADD COLUMN IF NOT EXISTS location VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.319667Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE armorstand ADD COLUMN IF NOT EXISTS uuid_grave VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.320197Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE itemframe ADD COLUMN IF NOT EXISTS uuid_entity VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.321115Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+SELECT * FROM block; [42102-232]
+2025-08-23 16:15:34.321595Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE block ADD COLUMN IF NOT EXISTS uuid_grave VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.323763Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE block ADD COLUMN IF NOT EXISTS replace_material VARCHAR(255) [42102-232]
+2025-08-23 16:15:34.321143Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
+ALTER TABLE block ADD COLUMN IF NOT EXISTS replace_data TEXT [42102-232]

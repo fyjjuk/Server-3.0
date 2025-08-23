@@ -1,0 +1,340 @@
+[16:14:46] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:14:46] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[16:14:46] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:14:46] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[16:14:46] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgate-spigot.jar'...
+[16:14:47] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/DamageIndicator.jar'...
+[16:14:47] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/GravesX-4.9.7.3.jar'...
+[16:14:48] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/DamageIndicator.jar' in 1896ms.
+[16:14:49] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/GravesX-4.9.7.3.jar' in 2206ms.
+[16:14:51] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 4662ms.
+[16:14:52] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgate-spigot.jar' in 5834ms.
+[16:14:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[16:14:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Chunky (1.4.40), ChunkyBorder (1.2.23), DamageIndicator (2.2.3), Geyser-Spigot (2.8.3-SNAPSHOT), GravesX (4.9.7.3), SkinsRestorer (15.7.9), ViaVersion (5.4.2), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[16:14:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:15:01] [ServerMain/INFO]: Loaded 1407 recipes
+[16:15:01] [ServerMain/INFO]: Loaded 1520 advancements
+[16:15:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:15:02] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 542.3ms
+[16:15:02] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[16:15:02] [Server thread/INFO]: Loading properties
+[16:15:02] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[16:15:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:15:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:15:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:15:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:15:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:15:03] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:03] [Server thread/INFO]: Generating keypair
+[16:15:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:03] [Server thread/INFO]: Using epoll channel type
+[16:15:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:15:04] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:15:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[16:15:05] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[16:15:05] [Server thread/INFO]: [floodgate] Took 989ms to boot Floodgate
+[16:15:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[16:15:05] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[16:15:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:15:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[16:15:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[16:15:07] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[16:15:07] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[16:15:07] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[16:15:07] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.7.3
+[16:15:07] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.2.3
+[16:15:07] [Server thread/INFO]: [ChunkyBorder] Loading server plugin ChunkyBorder v1.2.23
+[16:15:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[16:15:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:15:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[16:15:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[16:15:08] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[16:15:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:15:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:15:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:15:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:15:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:15:08] [Server thread/INFO]: Preparing level "world"
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.9
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:15:09] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:15:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:15:12] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:12] [Server thread/INFO]: Preparing spawn area: 2%
+[16:15:13] [Server thread/INFO]: Time elapsed: 979 ms
+[16:15:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:15:13] [Server thread/INFO]: Preparing spawn area: 2%
+[16:15:13] [Server thread/INFO]: Preparing spawn area: 2%
+[16:15:14] [Server thread/INFO]: Preparing spawn area: 18%
+[16:15:14] [Server thread/INFO]: Preparing spawn area: 18%
+[16:15:15] [Server thread/INFO]: Preparing spawn area: 51%
+[16:15:15] [Server thread/INFO]: Preparing spawn area: 57%
+[16:15:15] [Server thread/INFO]: Time elapsed: 2694 ms
+[16:15:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:15:15] [Server thread/INFO]: Preparing spawn area: 2%
+[16:15:16] [Server thread/INFO]: Preparing spawn area: 18%
+[16:15:16] [Server thread/INFO]: Time elapsed: 772 ms
+[16:15:16] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[16:15:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[16:15:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[16:15:16] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[16:15:16] [Server thread/WARN]: [ViaVersion] ViaVersion only supports newer client versions. Use ViaBackwards to allow older versions (ViaRewind for 1.7/1.8) to join.
+[16:15:16] [Server thread/WARN]: [ViaVersion] Get setup help at https://viaversion.com/setup or download ViaBackwards/ViaRewind directly at https://ci.viaversion.com/
+[16:15:16] [Server thread/WARN]: [ViaVersion] Need more help? Join our Discord at https://viaversion.com/discord
+[16:15:16] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[16:15:17] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[16:15:17] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.7.3
+[16:15:17] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
+[16:15:17] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.0.0.
+[16:15:17] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.0.0
+[16:15:18] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.jar
+[16:15:18] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+[16:15:18] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar
+[16:15:18] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.7/jar-relocator-1.7.jar
+[16:15:18] [Server thread/INFO]: [GravesX] Relocations applied to HikariCP-6.0.0.jar
+[16:15:19] [Server thread/INFO]: [GravesX] Downloaded library https://repo.alessiodp.com/releases/com/alessiodp/libby/maven/resolver/libby-maven-resolver/1.0.1/libby-maven-resolver-1.0.1.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[16:15:20] [Server thread/INFO]: [GravesX] Relocations applied to slf4j-api-1.7.36.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
+[16:15:20] [Server thread/INFO]: [GravesX] Relocations applied to javassist-3.29.2-GA.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
+[16:15:20] [Server thread/INFO]: [GravesX] Relocations applied to micrometer-core-1.5.10.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
+[16:15:20] [Server thread/INFO]: [GravesX] Relocations applied to HdrHistogram-2.1.12.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
+[16:15:20] [Server thread/INFO]: [GravesX] Relocations applied to LatencyUtils-2.0.3.jar
+[16:15:20] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.0.0 and shaded successfully.
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.47.0.0.
+[16:15:20] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.47.0.0
+[16:15:20] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.47.0.0/sqlite-jdbc-3.47.0.0.jar
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[16:15:21] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.47.0.0 successfully.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library org.json.json version 20240303.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library org.json:json:20240303
+[16:15:21] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/org/json/json/20240303/json-20240303.jar
+[16:15:21] [Server thread/INFO]: [GravesX] Loaded library org.json.json version 20240303 successfully.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.6.5.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.6.5
+[16:15:21] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.15.0
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.15.0
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.16
+[16:15:21] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.6.5 successfully.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
+[16:15:21] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
+[16:15:21] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232.jar
+[16:15:23] [Server thread/INFO]: [GravesX] Relocations applied to h2-2.3.232.jar
+[16:15:23] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
+[16:15:23] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.17.0.
+[16:15:23] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[16:15:23] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[16:15:23] [Server thread/INFO]: [GravesX] Relocations applied to adventure-api-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to adventure-key-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to examination-api-1.3.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to examination-string-1.3.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to annotations-24.1.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.17.0 and shaded successfully.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.17.0.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-minimessage-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.17.0 and shaded successfully.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.17.0.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-gson-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-json-4.17.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.0.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to option-1.0.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to gson-2.8.0.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[16:15:24] [Server thread/INFO]: [GravesX] Relocations applied to auto-service-annotations-1.1.1.jar
+[16:15:24] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.17.0 and shaded successfully.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.3.3.
+[16:15:24] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.3.3
+[16:15:24] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-platform-bukkit-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.3.3
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-platform-api-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-api-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-key-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.3.3
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-bungeecord-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-legacy-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-nbt-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.0.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to annotations-24.0.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-gson-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.3.3
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-platform-facet-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.3.3
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to adventure-platform-viaversion-4.3.3.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.3.3 and shaded successfully.
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
+[16:15:25] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
+[16:15:25] [Server thread/INFO]: [GravesX] Downloaded library https://repo.clojars.org/com/github/puregero/multilib/1.2.4/multilib-1.2.4.jar
+[16:15:25] [Server thread/INFO]: [GravesX] Relocations applied to multilib-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to annotations-22.0.0.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to multilib-common-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to multilib-bukkit-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to multilib-multipaper-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to regionized-common-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to regionized-bukkit-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to regionized-paper-1.2.4.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.12.0.
+[16:15:27] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.12.0
+[16:15:27] [Server thread/INFO]: [GravesX] Downloaded library https://repo1.maven.org/maven2/org/apache/commons/commons-text/1.12.0/commons-text-1.12.0.jar
+[16:15:27] [Server thread/INFO]: [GravesX] Relocations applied to commons-text-1.12.0.jar
+[16:15:28] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.14.0
+[16:15:28] [Server thread/INFO]: [GravesX] Relocations applied to commons-lang3-3.14.0.jar
+[16:15:28] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.12.0 and shaded successfully.
+[16:15:28] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
+[16:15:28] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
+[16:15:28] [Server thread/INFO]: [GravesX] Integration: Hooked into Minedown Adventure.
+[16:15:28] [Server thread/INFO]: [GravesX] Integration: Hooked into Geyser-Spigot 2.8.3-SNAPSHOT.
+[16:15:28] [Server thread/INFO]: [GravesX] Integration: Hooked into floodgate 2.2.4-SNAPSHOT (b118-40d320a).
+[16:15:28] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Starting...
+[16:15:28] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.pool.HikariPool] Graves H2 - Added connection conn1: url=jdbc:h2:file:/workspaces/Server-3.0/servidor_minecraft/plugins/GravesX/data/graves.data user=SA
+[16:15:28] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Start completed.
+[16:15:28] [Server thread/WARN]: [GravesX] SQLite database file or folder does not exist in "plugins/GravesX/data". Skipping database migration.
+[16:15:28] [Server thread/INFO]: [GravesX] Metrics has been enabled. All metrics will be sent to https://bstats.org/plugin/bukkit/Graves/12849 and https://bstats.org/plugin/bukkit/GravesX/23069.
+[16:15:28] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.2.3
+[16:15:29] [Server thread/INFO]: [DamageIndicator] Using server version accessor for 1.21.7
+[16:15:29] [Server thread/INFO]: [ChunkyBorder] Enabling ChunkyBorder v1.2.23
+[16:15:29] [Server thread/WARN]: [ChunkyBorder] No saved borders found.
+[16:15:29] [Server thread/INFO]: [spark] Starting background profiler...
+[16:15:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[16:15:30] [Server thread/INFO]: [Geyser-Spigot] 
+[16:15:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b903 (git-master-61a1ddd)
+[16:15:30] [Server thread/INFO]: [Geyser-Spigot] 
+[16:15:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[16:15:33] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[16:15:33] [Server thread/INFO]: [Geyser-Spigot] Done (3.366s)! Run /geyser help for help!
+[16:15:33] [Server thread/INFO]: Done preparing level "world" (25.000s)
+[16:15:33] [Server thread/INFO]: Running delayed init tasks
+[16:15:33] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[16:15:33] [Server thread/INFO]: [GravesX] Registering Crash Handler...
+[16:15:33] [Server thread/INFO]: [GravesX] Registered Crash Handler. Server will handle crashes in a separate thread.
+[16:15:33] [Server thread/INFO]: Done (49.469s)! For help, type "help"
+[16:15:34] [ForkJoinPool.commonPool-worker-3/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[16:15:34] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[16:15:34] [Craft Scheduler Thread - 6 - GravesX/INFO]: [GravesX] Loading grave maps...
+[16:15:34] [Craft Scheduler Thread - 6 - GravesX/INFO]: [GravesX] Found 0 grave maps to load into cache.
+[16:15:34] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] You are using an outdated version of GravesX.
+[16:15:34] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Installed Version: 4.9.7.3
+[16:15:34] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Latest Version:  4.9.8.3
+[16:15:34] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Grab the latest release from https://www.spigotmc.org/resources/118271/
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/INFO]: [GravesX] Loading Block Map cache...
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] Error occurred while loading Block Map: (Message 42S02 not found); SQL statement:
+SELECT * FROM block; [42102-232]
+[16:15:34] [Craft Scheduler Thread - 18 - GravesX/INFO]: [GravesX] Loading Holograms into Hologram Map Cache...
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.message.DbException.getJdbcSQLException(DbException.java:514)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.message.DbException.get(DbException.java:223)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.message.DbException.get(DbException.java:199)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.getTableOrViewNotFoundDbException(Parser.java:7945)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.getTableOrViewNotFoundDbException(Parser.java:7916)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.readTableOrView(Parser.java:7895)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.readTablePrimary(Parser.java:1769)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.readTableReference(Parser.java:2249)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseSelectFromPart(Parser.java:2702)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseSelect(Parser.java:2810)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQueryPrimary(Parser.java:2692)
+[16:15:34] [Craft Scheduler Thread - 6 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for armorstand...
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQueryTerm(Parser.java:2547)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQueryExpressionBody(Parser.java:2526)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQueryExpressionBodyAndEndOfQuery(Parser.java:2519)
+[16:15:34] [Craft Scheduler Thread - 18 - GravesX/INFO]: [GravesX] Loaded 0 Holograms into Hologram Map Cache.
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQueryExpression(Parser.java:2512)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parseQuery(Parser.java:2479)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parsePrepared(Parser.java:610)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parse(Parser.java:581)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.parse(Parser.java:556)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.command.Parser.prepareCommand(Parser.java:484)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:645)
+[16:15:34] [Craft Scheduler Thread - 6 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for armorstand.
+[16:15:34] [Craft Scheduler Thread - 7 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for itemframe...
+[16:15:34] [Craft Scheduler Thread - 7 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for itemframe.
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:561)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1164)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:93)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:315)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:328)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.libraries.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] GravesX-4.9.7.3.jar//com.ranull.graves.manager.DataManager.lambda$loadBlockMap$1(DataManager.java:1215)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[16:15:34] [Craft Scheduler Thread - 9 - GravesX/ERROR]: [GravesX] java.base/java.lang.Thread.run(Thread.java:1583)
+[16:15:35] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[16:15:39] [User Authenticator #0/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[16:15:39] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[16:15:41] [Server thread/INFO]: Fernando_fyjjuk joined the game
+[16:15:41] [Server thread/INFO]: Fernando_fyjjuk[/127.7.20.190:33445] logged in with entity id 29 at ([world]606.2158067957881, 64.9375, -2105.706952141593)
+[16:15:42] [Server thread/ERROR]: Unknown SpawnReason REHYDRATION for HappyGhast['Happy Ghast'/82, uuid='accac811-86c8-4d67-a714-82d458da2586', l='ServerLevel[world]', x=633.53, y=85.00, z=-2039.58, cpos=[39, -128], tl=0, v=false]
+[16:18:07] [Server thread/INFO]: Fernando_fyjjuk burned to death
+[16:26:46] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Fernandofyjjuk
+[16:26:46] [localSession-7-2/INFO]: [Geyser-Spigot] Fernandofyjjuk (logged in as: Fernandofyjjuk) has connected to the Java server
+[16:26:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Fernandofyjjuk joined (UUID: 00000000-0000-0000-0009-01f56d6ede52)
+[16:26:46] [Server thread/INFO]: .Fernandofyjjuk joined the game
+[16:26:46] [Server thread/INFO]: .Fernandofyjjuk[/127.7.20.190:0] logged in with entity id 4265 at ([world]552.6448, 71.0, -2050.041)
+[16:32:39] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Khvicha K77
+[16:32:39] [localSession-7-3/INFO]: [Geyser-Spigot] Khvicha K77 (logged in as: Khvicha_K77) has connected to the Java server
+[16:32:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 joined (UUID: 00000000-0000-0000-0009-01f6a628710a)
+[16:32:39] [Server thread/INFO]: .Khvicha_K77 joined the game
+[16:32:39] [Server thread/INFO]: .Khvicha_K77[/127.174.164.171:0] logged in with entity id 5536 at ([world]503.4471, 71.0, -2079.308)
+[16:33:17] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Fernandofyjjuk has disconnected from the Java server because of Bedrock client disconnected
+[16:33:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Fernandofyjjuk disconnected
+[16:33:17] [Server thread/INFO]: .Fernandofyjjuk lost connection: Disconnected
+[16:33:17] [Server thread/INFO]: .Fernandofyjjuk left the game
+[16:33:24] [Async Chat Thread - #0/INFO]: [Not Secure] <.Khvicha_K77> eddy
+[16:33:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> coyo que tal?
+[16:33:42] [Async Chat Thread - #0/INFO]: [Not Secure] <.Khvicha_K77> si normal y mi palo y mascara
+[16:34:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> esta aqui colgada
+[16:34:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> ven
