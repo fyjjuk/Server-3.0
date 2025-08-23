@@ -338,3 +338,8 @@ SELECT * FROM block; [42102-232]
 [16:33:42] [Async Chat Thread - #0/INFO]: [Not Secure] <.Khvicha_K77> si normal y mi palo y mascara
 [16:34:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> esta aqui colgada
 [16:34:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> ven
+[16:34:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Fernando_fyjjuk> aqui hay cosas
+[16:37:07] [Server thread/INFO]: .Khvicha_K77 has made the advancement [Cover Me with Diamonds]
+[16:38:54] [Async Chat Thread - #2/INFO]: [Not Secure] <.Khvicha_K77> ahora a buscas
+[16:39:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Fernando_fyjjuk> libro para encantar elitra
+[16:41:45] [Server thread/INFO]: Named entity Zombie['CARACULOHUELEPEDOS'/245, uuid='9c204239-b4da-4a56-893d-4ec11cf46726', l='ServerLevel[world]', x=537.67, y=70.00, z=-2004.70, cpos=[33, -126], tl=30155, v=true] died: CARACULOHUELEPEDOS was slain by .Khvicha_K77
