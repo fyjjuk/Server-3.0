@@ -1,280 +1,1672 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1755895081878 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1755968719491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895085134 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968722612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895088396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968725717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895091633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968728830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895094885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968731941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895098159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968735044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895101428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968738149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895104704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968741265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895107959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968744370 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895111277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968747471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895114514 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968750573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895117750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968753673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895120996 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968756788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895124239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968759892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895127480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968763026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895130721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968766132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895133964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968769236 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895137196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968772341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895140445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968775461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895143688 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968778557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895146927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968781660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895150168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968784755 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895153406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968787872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895156651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968790988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895159894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968794093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895163143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968797192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895166395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968800298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895169635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968803410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895172875 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968806528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895176123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968809660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895179357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968812760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895182614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968815853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895185862 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968818953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895189098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968822061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895192343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968825162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895195585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968828259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895198822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968831396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895202068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968834496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895205309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968837600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895208548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968840716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895211808 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968843828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895215049 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968846938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895218286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968850054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895221534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968853153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895224790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968856247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895228050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968859342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
 computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1755895231319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1755968862453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968865608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968868709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968871813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968874915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968878018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968881122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968884222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968887323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968890431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968893542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968896653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968899751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968902855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968905960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968909060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968912177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968915281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968918371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968921467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968924564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968927664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968930764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968933870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968937020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968940118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968943227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968946329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968949426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968952529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968955652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968958742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968961837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968964938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968968036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968971133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968974242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968977347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968980444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968983538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968986635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968989745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968992834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968995951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755968999050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969002149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969005247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969008352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969011480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969014591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969017688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969020822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969023931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969027025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969030148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969033268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969036362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969039462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969042558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969045688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969048808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969051978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969055078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969058172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969061275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969064392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969067493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969070592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969073692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969076795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969079929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969083028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969086131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969089237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969092340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969095466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969098562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969101672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969104782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969107901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969111027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969114149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969117269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969120372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969123462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969126582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969129704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969132801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969135915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969139024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969142143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969145241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969148344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969151453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969154581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969157698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969160795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969163892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969166990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969170096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969173214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969176340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969179440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969182556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969185668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969188799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969191900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969195023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969198117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969201222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969204326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969207432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969210536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969213636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969216739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969219849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969222964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969226072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969229176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969232273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969235375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969238491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969241604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969244698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969247796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969250890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969253989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969257090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969260187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969263289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969266402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969269512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969272613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969275705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969278817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969281933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969285030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969288124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969291237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969294350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969297458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969300562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969303660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969306765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969309855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969312950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969316044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969319141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969322250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969325351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969328462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969331571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969334680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969337803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969340914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969344031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969347140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969350237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969353334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969356436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969359548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969362653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969365750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969368885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969371984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969375092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969378228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969381328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969384439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969387551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969390650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969393751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969396853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969399960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969403060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969406172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969409271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969412402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969415526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969418647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969421754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969424850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969427956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969431051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969434148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969437237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969440345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969443469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969446574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969449689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969452825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969455921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969459043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969462160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969465267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969468381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969471475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969474588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969477695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969480794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969483908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969487001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969490100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969493212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969496304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969499404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969502524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969505644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969508787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969511955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969515056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969518187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969521290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969524384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969527500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969530618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969533739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969536837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969539938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969543047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969546153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969549248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969552356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969555460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969558565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969561659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969564757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969567871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969570965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969574062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969577173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969580266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+loss-deluxe.gl.at.ply.gg:1299 => 127.0.0.1:19132 (minecraft-bedrock)
+computers-cove.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1755969583372 tunnel running, 2 tunnels registered
 
 
 TUNNELS

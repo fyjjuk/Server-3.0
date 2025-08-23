@@ -49,3 +49,15 @@ ALTER TABLE block ADD COLUMN IF NOT EXISTS replace_material VARCHAR(255) [42102-
 2025-08-23 16:15:34.321143Z jdbc[4]: exception
 com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S02 not found); SQL statement:
 ALTER TABLE block ADD COLUMN IF NOT EXISTS replace_data TEXT [42102-232]
+2025-08-23 17:05:42.308637Z jdbc[4]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S01 not found); SQL statement:
+CREATE TABLE block (location VARCHAR(255),
+uuid_grave VARCHAR(255),
+replace_material VARCHAR(255),
+replace_data TEXT) [42101-232]
+2025-08-23 21:46:13.350596Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S01 not found); SQL statement:
+CREATE TABLE block (location VARCHAR(255),
+uuid_grave VARCHAR(255),
+replace_material VARCHAR(255),
+replace_data TEXT) [42101-232]
