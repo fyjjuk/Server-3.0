@@ -334,3 +334,8 @@
 [22:49:01] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
 [22:49:01] [Server thread/INFO]: .Khvicha_K77 left the game
 [22:53:58] [Server thread/INFO]: Fernando_fyjjuk fell from a high place
+[22:57:46] [Server thread/INFO]: Villager Villager['Librarian'/10723, uuid='36c23a14-a666-485c-9d5a-8e8e34b69120', l='ServerLevel[world]', x=550.08, y=71.00, z=-2011.36, cpos=[34, -126], tl=35273, v=true] died, message: 'Librarian was slain by Fernando_fyjjuk'
+[22:58:18] [Server thread/INFO]: Villager Villager['Fisherman'/150, uuid='c6ca84bf-a656-49e2-8513-b0ab6a1de043', l='ServerLevel[world]', x=522.85, y=70.94, z=-1981.77, cpos=[32, -124], tl=83248, v=true] died, message: 'Fisherman was slain by Fernando_fyjjuk'
+[23:05:24] [Server thread/INFO]: Villager Villager['Farmer'/103, uuid='31ccd857-faf1-4544-ba58-e20885ed9ae5', l='ServerLevel[world]', x=537.72, y=69.51, z=-1984.14, cpos=[33, -125], tl=91768, v=true] died, message: 'Farmer tried to swim in lava to escape Fernando_fyjjuk'
+[23:06:07] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[23:06:07] [Server thread/INFO]: Fernando_fyjjuk left the game
