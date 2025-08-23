@@ -242,3 +242,64 @@
 [22:05:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Don_Tanguito> wtf donde estoy?
 [22:05:35] [Server thread/INFO]: Fernando_fyjjuk was slain by Vindicator
 [22:05:42] [Server thread/INFO]: .Khvicha_K77 was slain by Vindicator
+[22:06:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Don_Tanguito> estan haciendo el rage?
+[22:06:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> si
+[22:06:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> ven
+[22:06:54] [Async Chat Thread - #6/INFO]: [Not Secure] <Don_Tanguito> yo?
+[22:06:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> si
+[22:07:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Don_Tanguito> estoy en una mina
+[22:07:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Don_Tanguito> donde estoy esata esa vaina del reto o algo asi
+[22:07:32] [Server thread/INFO]: .Khvicha_K77 has made the advancement [Voluntary Exile]
+[22:08:00] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[22:08:00] [Server thread/INFO]: Fernando_fyjjuk left the game
+[22:08:03] [User Authenticator #2/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[22:08:03] [Server thread/INFO]: Don_Tanguito lost connection: Disconnected
+[22:08:03] [Server thread/INFO]: Don_Tanguito left the game
+[22:08:04] [Server thread/INFO]: Fernando_fyjjuk joined the game
+[22:08:04] [Server thread/INFO]: Fernando_fyjjuk[/127.7.20.190:43727] logged in with entity id 4884 at ([world]585.2792055518755, 71.0, -2033.4788529850175)
+[22:08:07] [User Authenticator #2/INFO]: UUID of player Don_Tanguito is 176771a0-ccf2-300d-97f0-8dd5e6112f37
+[22:08:08] [Server thread/INFO]: Don_Tanguito joined the game
+[22:08:08] [Server thread/INFO]: Don_Tanguito[/127.187.151.145:58887] logged in with entity id 4892 at ([world]-3198.4101591663416, -24.0, -3209.6285023589417)
+[22:08:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Fernando_fyjjuk> come
+[22:10:18] [Async Chat Thread - #8/INFO]: [Not Secure] <Fernando_fyjjuk> busca
+[22:10:38] [Async Chat Thread - #8/INFO]: [Not Secure] <.Khvicha_K77> no mates
+[22:10:55] [Async Chat Thread - #8/INFO]: [Not Secure] <.Khvicha_K77> voy a cerrar mi puerta
+[22:11:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Fernando_fyjjuk> carajo coyo muy tarde
+[22:11:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Fernando_fyjjuk> te defendere p
+[22:11:30] [Async Chat Thread - #8/INFO]: [Not Secure] <.Khvicha_K77> ya esta
+[22:11:36] [Async Chat Thread - #8/INFO]: [Not Secure] <.Khvicha_K77> vamos
+[22:11:44] [Server thread/INFO]: Villager Villager['Librarian'/207, uuid='da36f8e4-a107-45f8-a2bc-2544d8deaa28', l='ServerLevel[world]', x=506.36, y=70.00, z=-2013.65, cpos=[31, -126], tl=27361, v=true] died, message: 'Librarian was shot by Pillager'
+[22:13:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Fernando_fyjjuk> aca
+[22:13:47] [Server thread/INFO]: Villager Villager['Fisherman'/149, uuid='904b65f2-818e-4aa1-b019-4c8e144e8471', l='ServerLevel[world]', x=530.78, y=71.56, z=-1984.50, cpos=[33, -125], tl=29825, v=true] died, message: 'Fisherman was slain by Vex'
+[22:14:06] [Server thread/INFO]: Villager Villager['Fisherman'/148, uuid='340590a8-9c81-448e-b8ba-ffa379698f63', l='ServerLevel[world]', x=531.45, y=71.56, z=-1985.33, cpos=[33, -125], tl=30204, v=true] died, message: 'Fisherman was slain by Vex'
+[22:14:13] [Server thread/INFO]: Villager Villager['Farmer'/88, uuid='2550d30e-85ec-49b4-9f30-b4c3259ed7d8', l='ServerLevel[world]', x=544.70, y=71.00, z=-2005.70, cpos=[34, -126], tl=30350, v=true] died, message: 'Farmer was slain by Vex'
+[22:14:29] [Server thread/INFO]: Villager Villager['Librarian'/91, uuid='4ab0d973-1326-4f73-8615-c7905c05c700', l='ServerLevel[world]', x=544.56, y=71.00, z=-2013.70, cpos=[34, -126], tl=30670, v=true] died, message: 'Librarian was slain by Vex'
+[22:14:33] [Server thread/INFO]: Villager Villager['Farmer'/109, uuid='7f2fd2f2-5980-4c58-920a-78a244fa2c53', l='ServerLevel[world]', x=542.39, y=71.00, z=-2005.40, cpos=[33, -126], tl=30760, v=true] died, message: 'Farmer was slain by Vex'
+[22:14:40] [Server thread/INFO]: Villager Villager['Farmer'/89, uuid='d85eb38e-64fa-4a27-a286-278dc31f97dd', l='ServerLevel[world]', x=546.70, y=71.00, z=-2005.30, cpos=[34, -126], tl=30898, v=true] died, message: 'Farmer was slain by Vex'
+[22:14:43] [Server thread/INFO]: Don_Tanguito was shot by Skeleton
+[22:14:46] [Server thread/INFO]: Villager Villager['Librarian'/90, uuid='5f906b4a-5dbf-46d1-9967-158db1703490', l='ServerLevel[world]', x=546.55, y=71.00, z=-2013.64, cpos=[34, -126], tl=31024, v=true] died, message: 'Librarian was slain by Vex'
+[22:14:57] [Server thread/INFO]: .Khvicha_K77 was slain by Vex
+[22:15:19] [Server thread/INFO]: .Khvicha_K77 was slain by Vex
+[22:15:49] [Server thread/INFO]: Don_Tanguito lost connection: Disconnected
+[22:15:49] [Server thread/INFO]: Don_Tanguito left the game
+[22:16:03] [Server thread/INFO]: Fernando_fyjjuk was slain by Vindicator
+[22:17:13] [Server thread/INFO]: Villager Villager['Farmer'/57, uuid='62af71b5-f6ce-48e4-b8d3-6380ede65619', l='ServerLevel[world]', x=566.47, y=70.94, z=-2003.95, cpos=[35, -126], tl=33956, v=true] died, message: 'Farmer was slain by Vex'
+[22:17:24] [Server thread/INFO]: Villager Villager['Farmer'/58, uuid='4e784312-14a1-4c69-9f9c-804de9f7d995', l='ServerLevel[world]', x=574.70, y=70.94, z=-2002.50, cpos=[35, -126], tl=34181, v=true] died, message: 'Farmer was slain by Vex'
+[22:17:26] [Server thread/INFO]: Villager Villager['Farmer'/44, uuid='0e8da34f-d161-4d4a-b862-999d415ce2a5', l='ServerLevel[world]', x=571.50, y=70.94, z=-2010.30, cpos=[35, -126], tl=34211, v=true] died, message: 'Farmer was slain by Vex'
+[22:17:32] [Server thread/INFO]: Villager Villager['Farmer'/59, uuid='6b94f668-bc26-4c11-89e4-bcd434ded1cd', l='ServerLevel[world]', x=573.51, y=71.00, z=-2010.30, cpos=[35, -126], tl=34329, v=true] died, message: 'Farmer was slain by Vex'
+[22:22:35] [Server thread/INFO]: Villager Villager['Farmer'/172, uuid='2d172636-d137-45e3-80c8-adeacdb3fc13', l='ServerLevel[world]', x=520.30, y=71.00, z=-2005.30, cpos=[32, -126], tl=40390, v=true] died, message: 'Farmer was shot by Pillager'
+[22:22:51] [Server thread/INFO]: Villager Villager['Farmer'/116, uuid='32e55c64-4a7b-4665-bae9-f3bbd3edd5f5', l='ServerLevel[world]', x=528.69, y=71.00, z=-2005.31, cpos=[33, -126], tl=40720, v=true] died, message: 'Farmer was shot by Pillager'
+[22:23:06] [Server thread/INFO]: Villager Villager['Farmer'/114, uuid='455103d0-cbbb-4e2d-ad48-74805646c94a', l='ServerLevel[world]', x=530.31, y=71.00, z=-2005.31, cpos=[33, -126], tl=41011, v=true] died, message: 'Farmer was shot by Pillager'
+[22:23:09] [Server thread/INFO]: .Khvicha_K77 was slain by Vindicator
+[22:23:17] [Server thread/INFO]: .Khvicha_K77 was slain by Vindicator
+[22:23:21] [Server thread/INFO]: Villager Villager['Farmer'/115, uuid='4e36930c-0a68-4cf9-9c4e-e44a0d69814a', l='ServerLevel[world]', x=532.70, y=71.00, z=-2005.30, cpos=[33, -126], tl=41305, v=true] died, message: 'Farmer was shot by Pillager'
+[22:23:35] [Server thread/INFO]: Villager Villager['Farmer'/113, uuid='dff4399b-2b97-4e81-a886-a272a874a840', l='ServerLevel[world]', x=534.70, y=71.00, z=-2005.30, cpos=[33, -126], tl=41600, v=true] died, message: 'Farmer was shot by Pillager'
+[22:23:49] [Server thread/INFO]: Villager Villager['Librarian'/123, uuid='aa0e837f-f8c1-4c3f-936f-f1c70fe058af', l='ServerLevel[world]', x=532.30, y=71.00, z=-2013.70, cpos=[33, -126], tl=41863, v=true] died, message: 'Librarian was shot by Pillager'
+[22:24:04] [Server thread/INFO]: Villager Villager['Librarian'/122, uuid='4a0b1f9e-1ffd-4e6c-b12e-9b760c956c53', l='ServerLevel[world]', x=534.70, y=71.00, z=-2013.70, cpos=[33, -126], tl=42174, v=true] died, message: 'Librarian was shot by Pillager'
+[22:24:20] [Server thread/INFO]: Villager Villager['Librarian'/118, uuid='40dc026d-5293-4188-96fa-a28838f4de6f', l='ServerLevel[world]', x=536.70, y=71.00, z=-2013.70, cpos=[33, -126], tl=42491, v=true] died, message: 'Librarian was shot by Pillager'
+[22:24:35] [Server thread/INFO]: Villager Villager['Farmer'/110, uuid='558ebb53-c2a8-470e-ae0a-bf5ed9787742', l='ServerLevel[world]', x=536.30, y=71.00, z=-2005.30, cpos=[33, -126], tl=42785, v=true] died, message: 'Farmer was shot by Pillager'
+[22:24:38] [Server thread/INFO]: Villager Villager['Farmer'/111, uuid='0306985d-3048-4a1c-bedb-99686be9841b', l='ServerLevel[world]', x=538.30, y=71.00, z=-2005.30, cpos=[33, -126], tl=42850, v=true] died, message: 'Farmer was shot by Pillager'
+[22:24:39] [Server thread/INFO]: Fernando_fyjjuk was slain by Vex
+[22:24:52] [Server thread/INFO]: Villager Villager['Farmer'/112, uuid='17679d49-cb3d-413c-b538-c4ce183e5c66', l='ServerLevel[world]', x=540.69, y=71.00, z=-2005.31, cpos=[33, -126], tl=43137, v=true] died, message: 'Farmer was shot by Pillager'
+[22:24:59] [Async Chat Thread - #12/INFO]: [Not Secure] <.Khvicha_K77> donde estas
+[22:25:06] [Server thread/INFO]: Villager Villager['Librarian'/117, uuid='3155444c-a7df-45fe-9e06-aceb4885c007', l='ServerLevel[world]', x=542.30, y=71.00, z=-2013.70, cpos=[33, -126], tl=43417, v=true] died, message: 'Librarian was shot by Pillager'
