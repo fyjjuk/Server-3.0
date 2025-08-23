@@ -343,3 +343,64 @@ SELECT * FROM block; [42102-232]
 [16:38:54] [Async Chat Thread - #2/INFO]: [Not Secure] <.Khvicha_K77> ahora a buscas
 [16:39:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Fernando_fyjjuk> libro para encantar elitra
 [16:41:45] [Server thread/INFO]: Named entity Zombie['CARACULOHUELEPEDOS'/245, uuid='9c204239-b4da-4a56-893d-4ec11cf46726', l='ServerLevel[world]', x=537.67, y=70.00, z=-2004.70, cpos=[33, -126], tl=30155, v=true] died: CARACULOHUELEPEDOS was slain by .Khvicha_K77
+[16:48:31] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Khvicha_K77 disconnected
+[16:48:31] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Khvicha K77 has disconnected from the Java server because of Bedrock client disconnected
+[16:48:31] [Server thread/INFO]: .Khvicha_K77 lost connection: Disconnected
+[16:48:31] [Server thread/INFO]: .Khvicha_K77 left the game
+[16:50:45] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[16:50:45] [Server thread/INFO]: Fernando_fyjjuk left the game
+[16:51:10] [Server thread/INFO]: Stopping the server
+[16:51:10] [Server thread/INFO]: Stopping server
+[16:51:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
+[16:51:10] [Server thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.23
+[16:51:10] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.2.3
+[16:51:10] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.7.3
+[16:51:10] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[16:51:10] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
+[16:51:10] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
+[16:51:10] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[16:51:10] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
+[16:51:10] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[16:51:10] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[16:51:10] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
+[16:51:10] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
+[16:51:10] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[16:51:10] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[16:51:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[16:51:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[16:51:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[16:51:10] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[16:51:10] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[16:51:10] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[16:51:10] [Server thread/INFO]: Saving players
+[16:51:10] [WebSocketConnectReadThread-153/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[16:51:10] [Server thread/INFO]: Saving worlds
+[16:51:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[16:51:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:51:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Saved 465 block chunks, 293 entity chunks, 0 poi chunks in world 'world_nether' in 0.42s
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[16:51:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.23s
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[16:51:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[16:51:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:51:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:51:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:51:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:51:11] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:51:11] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:51:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:51:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
