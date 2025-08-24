@@ -233,3 +233,4 @@
 [15:41:36] [Async Chat Thread - #1/INFO]: [Not Secure] <CHOMSKYby07> en mi base no contruyas arboles tmr :v
 [15:41:41] [Async Chat Thread - #1/INFO]: [Not Secure] <CHOMSKYby07> era tierra es fea
 [15:44:03] [Server thread/INFO]: Villager Villager['Armorer'/90, uuid='67b700ea-58d5-476f-81f6-0e75db25f965', l='ServerLevel[world]', x=518.40, y=71.00, z=-2005.30, cpos=[32, -126], tl=3377, v=true] died, message: 'Armorer was slain by CHOMSKYby07'
+[15:56:44] [Server thread/INFO]: Villager Villager['Fletcher'/172, uuid='4243c92d-29dc-46b6-aeaf-4d9b0ad8e5ea', l='ServerLevel[world]', x=575.69, y=71.00, z=-1988.52, cpos=[35, -125], tl=18581, v=true] died, message: 'Fletcher was slain by CHOMSKYby07'
