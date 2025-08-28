@@ -476,3 +476,9 @@
 [22:31:05] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> hablamos al rato de media me contecto
 [22:31:07] [Server thread/INFO]: ReyEscarlata0_0 lost connection: Disconnected
 [22:31:07] [Server thread/INFO]: ReyEscarlata0_0 left the game
+[22:49:00] [Netty Epoll Server IO #0/INFO]: Disconnecting Fernando_fyjjuk for sending keepalive response (6650399) out-of-order!
+[22:49:00] [Server thread/INFO]: Fernando_fyjjuk lost connection: Timed out
+[22:49:00] [Server thread/INFO]: Fernando_fyjjuk left the game
+[22:49:20] [User Authenticator #6/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[22:49:29] [Server thread/INFO]: Fernando_fyjjuk joined the game
+[22:49:29] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:53913] logged in with entity id 39355 at ([world]540.654377225324, 191.0, -1939.300000011921)
