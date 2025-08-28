@@ -230,3 +230,10 @@
 [21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Installed Version: 4.9.7.3
 [21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Latest Version:  4.9.8.3
 [21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Grab the latest release from https://www.spigotmc.org/resources/118271/
+[21:14:55] [User Authenticator #0/INFO]: UUID of player ReyEscarlata0_0 is 15809fa8-b6b2-3bd9-a151-65c82c5d3290
+[21:14:55] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[21:14:56] [Server thread/INFO]: ReyEscarlata0_0 joined the game
+[21:14:56] [Server thread/INFO]: ReyEscarlata0_0[/127.28.233.63:33055] logged in with entity id 16 at ([world]559.7385289680875, 71.0, -2016.3512661741615)
+[21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 28b62784-d859-4742-b506-da7478aa399f, mapped to Bat['Bat'/64, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.90, y=-24.20, z=-1984.80, cpos=[34, -125], tl=0, v=true], can't add Bat['Bat'/75, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.56, y=-24.51, z=-1983.78, cpos=[34, -124], tl=0, v=false]
+[21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0282c51b-e2d4-47bc-8adc-8353c7c239fc, mapped to Villager['Fisherman'/103, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.56, y=71.00, z=-1984.78, cpos=[33, -125], tl=0, v=true], can't add Villager['Fisherman'/139, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.35, y=71.00, z=-1983.77, cpos=[33, -124], tl=0, v=false]
+[21:15:57] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Ice Bucket Challenge]
