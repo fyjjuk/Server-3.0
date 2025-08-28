@@ -483,3 +483,68 @@
 [22:49:29] [Server thread/INFO]: Fernando_fyjjuk joined the game
 [22:49:29] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:53913] logged in with entity id 39355 at ([world]540.654377225324, 191.0, -1939.300000011921)
 [22:57:14] [Server thread/INFO]: Fernando_fyjjuk was slain by Iron Golem ❤
+[23:41:57] [Server thread/INFO]: Fernando_fyjjuk fell from a high place
+[23:42:47] [Server thread/INFO]: Stopping the server
+[23:42:47] [Server thread/INFO]: Stopping server
+[23:42:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
+[23:42:47] [Server thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.23
+[23:42:47] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
+[23:42:47] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.2.3
+[23:42:47] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[23:42:47] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[23:42:47] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[23:42:47] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
+[23:42:47] [Craft Scheduler Thread - 7 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[23:42:47] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.7.3
+[23:42:47] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[23:42:47] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
+[23:42:47] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[23:42:47] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
+[23:42:47] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[23:42:47] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
+[23:42:47] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[23:42:47] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[23:42:47] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
+[23:42:47] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
+[23:42:47] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[23:42:47] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[23:42:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[23:42:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[23:42:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[23:42:47] [Server thread/INFO]: Saving players
+[23:42:47] [Server thread/INFO]: Fernando_fyjjuk lost connection: Server closed
+[23:42:47] [Server thread/INFO]: Fernando_fyjjuk left the game
+[23:42:48] [WebSocketConnectReadThread-116/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[23:42:48] [Server thread/INFO]: Saving worlds
+[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 53 block chunks, 252 entity chunks, 1 poi chunks in world 'world' in 0.17s
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 113 block chunks, 45 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:42:48] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:42:48] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:42:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:42:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
