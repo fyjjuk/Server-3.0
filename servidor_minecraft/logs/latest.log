@@ -237,3 +237,9 @@
 [21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 28b62784-d859-4742-b506-da7478aa399f, mapped to Bat['Bat'/64, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.90, y=-24.20, z=-1984.80, cpos=[34, -125], tl=0, v=true], can't add Bat['Bat'/75, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.56, y=-24.51, z=-1983.78, cpos=[34, -124], tl=0, v=false]
 [21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0282c51b-e2d4-47bc-8adc-8353c7c239fc, mapped to Villager['Fisherman'/103, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.56, y=71.00, z=-1984.78, cpos=[33, -125], tl=0, v=true], can't add Villager['Fisherman'/139, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.35, y=71.00, z=-1983.77, cpos=[33, -124], tl=0, v=false]
 [21:15:57] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Ice Bucket Challenge]
+[21:27:37] [User Authenticator #1/INFO]: UUID of player CHOMSKYby07 is 19b35e79-40a4-32b4-a052-cc4d629dd53a
+[21:27:38] [Server thread/INFO]: CHOMSKYby07 joined the game
+[21:27:38] [Server thread/INFO]: CHOMSKYby07[/127.173.137.253:49139] logged in with entity id 3538 at ([world]567.2376226375992, 71.0, -2045.1780492956282)
+[21:27:50] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> k lo k
+[21:27:55] [Async Chat Thread - #0/INFO]: [Not Secure] <ReyEscarlata0_0> k
+[21:27:57] [Async Chat Thread - #0/INFO]: [Not Secure] <ReyEscarlata0_0> ajsdjasjd
