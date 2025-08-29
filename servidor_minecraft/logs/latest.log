@@ -1,550 +1,464 @@
-[21:00:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:00:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
-[21:00:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:00:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[21:00:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
- - Chunky (1.4.40), ChunkyBorder (1.2.23), DamageIndicator (2.2.3), Geyser-Spigot (2.8.3-SNAPSHOT), GravesX (4.9.7.3), LevelledMobs (4.3.2.1 b125), SkinsRestorer (15.7.9), TreeFella (1.2), ViaVersion (5.4.2), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
-[21:01:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:01:04] [ServerMain/INFO]: Loaded 1407 recipes
-[21:01:04] [ServerMain/INFO]: Loaded 1520 advancements
-[21:01:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:01:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 499.1ms
-[21:01:04] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[21:01:04] [Server thread/INFO]: Loading properties
-[21:01:04] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
-[21:01:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:01:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:01:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:01:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:01:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:01:06] [Server thread/INFO]: Default game type: SURVIVAL
-[21:01:06] [Server thread/INFO]: Generating keypair
-[21:01:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:01:06] [Server thread/INFO]: Using epoll channel type
-[21:01:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:01:06] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[21:01:07] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[21:01:08] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:01:08] [Server thread/INFO]: [floodgate] Took 1,081ms to boot Floodgate
-[21:01:08] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
-[21:01:08] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
-[21:01:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:01:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:01:09] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
-[21:01:10] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:01:10] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:01:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[21:01:10] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.7.3
-[21:01:10] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
-[21:01:10] [Server thread/INFO]: [LevelledMobs] Loading commands
-[21:01:10] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.2.3
-[21:01:10] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[21:01:10] [Server thread/INFO]: [ChunkyBorder] Loading server plugin ChunkyBorder v1.2.23
-[21:01:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
-[21:01:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:01:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
-[21:01:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
-[21:01:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[21:01:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:01:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:01:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:01:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:01:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:01:11] [Server thread/INFO]: Preparing level "world"
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.7.10) is available! Downloading update...
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[21:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 383ms
-[21:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[21:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[21:01:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:01:12] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:13] [Server thread/INFO]: Preparing spawn area: 2%
-[21:01:13] [Server thread/INFO]: Preparing spawn area: 46%
-[21:01:13] [Server thread/INFO]: Time elapsed: 1193 ms
-[21:01:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:01:13] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:14] [Server thread/INFO]: Preparing spawn area: 38%
-[21:01:14] [Server thread/INFO]: Time elapsed: 750 ms
-[21:01:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:01:14] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:14] [Server thread/INFO]: Time elapsed: 289 ms
-[21:01:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[21:01:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
-[21:01:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[21:01:15] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
-[21:01:15] [Server thread/WARN]: [ViaVersion] ViaVersion only supports newer client versions. Use ViaBackwards to allow older versions (ViaRewind for 1.7/1.8) to join.
-[21:01:15] [Server thread/WARN]: [ViaVersion] Get setup help at https://viaversion.com/setup or download ViaBackwards/ViaRewind directly at https://ci.viaversion.com/
-[21:01:15] [Server thread/WARN]: [ViaVersion] Need more help? Join our Discord at https://viaversion.com/discord
-[21:01:15] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
-[21:01:16] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[21:01:16] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.7.3
-[21:01:16] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.0.0.
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.0.0
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
-[21:01:16] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.0.0 and shaded successfully.
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.47.0.0.
-[21:01:16] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.47.0.0
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
-[21:01:17] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.47.0.0 successfully.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library org.json.json version 20240303.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library org.json:json:20240303
-[21:01:17] [Server thread/INFO]: [GravesX] Loaded library org.json.json version 20240303 successfully.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.6.5.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.6.5
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.15.0
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.15.0
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.16
-[21:01:17] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.6.5 successfully.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
-[21:01:17] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.17.0.
-[21:01:17] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.17.0 and shaded successfully.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.17.0.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.17.0 and shaded successfully.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.17.0.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.0.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.17.0 and shaded successfully.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.3.3.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.3.3
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.3.3
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.3.3
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.0.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.3.3
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.3.3
-[21:01:18] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.3.3 and shaded successfully.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
-[21:01:18] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.12.0.
-[21:01:18] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.12.0
-[21:01:19] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.14.0
-[21:01:19] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.12.0 and shaded successfully.
-[21:01:19] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
-[21:01:19] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
-[21:01:19] [Server thread/INFO]: [GravesX] Integration: Hooked into Minedown Adventure.
-[21:01:19] [Server thread/INFO]: [GravesX] Integration: Hooked into Geyser-Spigot 2.8.3-SNAPSHOT.
-[21:01:19] [Server thread/INFO]: [GravesX] Integration: Hooked into floodgate 2.2.4-SNAPSHOT (b118-40d320a).
-[21:01:19] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Starting...
-[21:01:23] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.pool.HikariPool] Graves H2 - Added connection conn1: url=jdbc:h2:file:/workspaces/Server-3.0/servidor_minecraft/plugins/GravesX/data/graves.data user=SA
-[21:01:23] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Start completed.
-[21:01:23] [Server thread/WARN]: [GravesX] SQLite database file or folder does not exist in "plugins/GravesX/data". Skipping database migration.
-[21:01:23] [Server thread/INFO]: [GravesX] Metrics has been enabled. All metrics will be sent to https://bstats.org/plugin/bukkit/Graves/12849 and https://bstats.org/plugin/bukkit/GravesX/23069.
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.7 for nametag support
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[21:01:23] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[21:01:23] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 252ms)
-[21:01:23] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.2.3
-[21:01:23] [Server thread/INFO]: [DamageIndicator] Using server version accessor for 1.21.7
-[21:01:23] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[21:01:23] [Server thread/INFO]: [ChunkyBorder] Enabling ChunkyBorder v1.2.23
-[21:01:24] [Server thread/INFO]: [spark] Starting background profiler...
-[21:01:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:01:25] [Server thread/INFO]: [Geyser-Spigot] 
-[21:01:25] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b903 (git-master-61a1ddd)
-[21:01:25] [Server thread/INFO]: [Geyser-Spigot] 
-[21:01:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:01:28] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[21:01:28] [Server thread/INFO]: [Geyser-Spigot] Done (3.431s)! Run /geyser help for help!
-[21:01:28] [Server thread/INFO]: Done preparing level "world" (16.745s)
-[21:01:28] [Server thread/INFO]: Running delayed init tasks
-[21:01:28] [Server thread/INFO]: [GravesX] Registering Crash Handler...
-[21:01:28] [Server thread/INFO]: [GravesX] Registered Crash Handler. Server will handle crashes in a separate thread.
-[21:01:28] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:01:28] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loading grave maps...
-[21:01:28] [Server thread/INFO]: Done (39.015s)! For help, type "help"
-[21:01:28] [Craft Scheduler Thread - 1 - GravesX/WARN]: [GravesX] Grave 2b25cc3a-36ae-4876-b4ec-8548322bd015 at location World: world, x: -3129, y: -23, z: -3216 is invalid. If this was caused by an addon, then report it to the plugin author. Reason: owner_texture is null, owner_texture_signature is null, killer_type is null
-[21:01:28] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loaded 1 grave maps into cache.
-[21:01:28] [Craft Scheduler Thread - 10 - GravesX/INFO]: [GravesX] Loading Holograms into Hologram Map Cache...
-[21:01:28] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loading Block Map cache...
-[21:01:28] [Craft Scheduler Thread - 3 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for armorstand...
-[21:01:28] [Craft Scheduler Thread - 3 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for armorstand.
-[21:01:28] [Craft Scheduler Thread - 13 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for itemframe...
-[21:01:28] [Craft Scheduler Thread - 13 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for itemframe.
-[21:01:28] [Craft Scheduler Thread - 10 - GravesX/INFO]: [GravesX] Loaded 3 Holograms into Hologram Map Cache.
-[21:01:28] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loaded 1 Blocks into the Block Map Cache.
-[21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] You are using an outdated version of GravesX.
-[21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Installed Version: 4.9.7.3
-[21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Latest Version:  4.9.8.3
-[21:01:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Grab the latest release from https://www.spigotmc.org/resources/118271/
-[21:14:55] [User Authenticator #0/INFO]: UUID of player ReyEscarlata0_0 is 15809fa8-b6b2-3bd9-a151-65c82c5d3290
-[21:14:55] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[21:14:56] [Server thread/INFO]: ReyEscarlata0_0 joined the game
-[21:14:56] [Server thread/INFO]: ReyEscarlata0_0[/127.28.233.63:33055] logged in with entity id 16 at ([world]559.7385289680875, 71.0, -2016.3512661741615)
-[21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 28b62784-d859-4742-b506-da7478aa399f, mapped to Bat['Bat'/64, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.90, y=-24.20, z=-1984.80, cpos=[34, -125], tl=0, v=true], can't add Bat['Bat'/75, uuid='28b62784-d859-4742-b506-da7478aa399f', l='ServerLevel[world]', x=557.56, y=-24.51, z=-1983.78, cpos=[34, -124], tl=0, v=false]
-[21:14:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0282c51b-e2d4-47bc-8adc-8353c7c239fc, mapped to Villager['Fisherman'/103, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.56, y=71.00, z=-1984.78, cpos=[33, -125], tl=0, v=true], can't add Villager['Fisherman'/139, uuid='0282c51b-e2d4-47bc-8adc-8353c7c239fc', l='ServerLevel[world]', x=530.35, y=71.00, z=-1983.77, cpos=[33, -124], tl=0, v=false]
-[21:15:57] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Ice Bucket Challenge]
-[21:27:37] [User Authenticator #1/INFO]: UUID of player CHOMSKYby07 is 19b35e79-40a4-32b4-a052-cc4d629dd53a
-[21:27:38] [Server thread/INFO]: CHOMSKYby07 joined the game
-[21:27:38] [Server thread/INFO]: CHOMSKYby07[/127.173.137.253:49139] logged in with entity id 3538 at ([world]567.2376226375992, 71.0, -2045.1780492956282)
-[21:27:50] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> k lo k
-[21:27:55] [Async Chat Thread - #0/INFO]: [Not Secure] <ReyEscarlata0_0> k
-[21:27:57] [Async Chat Thread - #0/INFO]: [Not Secure] <ReyEscarlata0_0> ajsdjasjd
-[21:31:14] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Take Aim]
-[21:34:33] [Server thread/INFO]: ReyEscarlata0_0 was shot by CHOMSKYby07
-[21:34:36] [Async Chat Thread - #2/INFO]: [Not Secure] <CHOMSKYby07> gg
-[21:34:49] [Async Chat Thread - #2/INFO]: [Not Secure] <ReyEscarlata0_0> :v sin arco con fuego p
-[21:34:50] [Async Chat Thread - #2/INFO]: [Not Secure] <CHOMSKYby07> ahora si me permites voy al nether xd
-[21:34:58] [Async Chat Thread - #2/INFO]: [Not Secure] <CHOMSKYby07> ese encatamiento tiene mi arco perdon xd
-[21:36:13] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> oye y los aldeanos
-[21:36:33] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> el maldito del eddy los mato por culpa de hacer una incursion xd
-[21:36:40] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> waaaaa
-[21:36:49] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> asi que tengo que empezar de nuevo :'v
-[21:36:53] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> aunque ya no quiero xd
-[21:36:57] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> me aburri
-[21:36:58] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> tmr
-[21:37:07] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> jasdjajsda
-[21:37:38] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> hazlo p en lo que estas en el server xd
-[21:37:49] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> ya ya
-[21:37:56] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> te agarras unos shulkers
-[21:37:59] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> ??
-[21:38:04] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> que si me agarre
-[21:38:06] [Async Chat Thread - #4/INFO]: [Not Secure] <ReyEscarlata0_0> nop
-[21:38:10] [Async Chat Thread - #4/INFO]: [Not Secure] <CHOMSKYby07> a
-[21:46:25] [Async Chat Thread - #6/INFO]: [Not Secure] <ReyEscarlata0_0> jajajaj me meti donde los aldeanos xd
-[21:47:04] [Async Chat Thread - #6/INFO]: [Not Secure] <CHOMSKYby07> xd
-[21:50:41] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> duerme porfavor
-[21:51:32] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> gracias
-[21:51:55] [Server thread/INFO]: [Not Secure] [Server] hola perritas
-[21:51:58] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> eddy
-[21:51:59] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> oe
-[21:52:07] [Server thread/INFO]: [Not Secure] [Server] que
-[21:52:13] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> que plugin le metiste
-[21:52:20] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> que un esqueleto me da 50 huesos de una
-[21:52:24] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> no creo que sea la fortuna :v
-[21:52:26] [Server thread/INFO]: [Not Secure] [Server] ninguno extra
-[21:52:29] [Async Chat Thread - #8/INFO]: [Not Secure] <ReyEscarlata0_0> por los niveles es
-[21:52:30] [Async Chat Thread - #8/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[21:52:35] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> a?
-[21:52:44] [Server thread/INFO]: [Not Secure] [Server] es de los niveles
-[21:52:49] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> que hace esa monda
-[21:53:10] [Server thread/INFO]: [Not Secure] [Server] mientras mas alto el nivel tiene mas resistencia, mas vida, mas ataque y mas loot
-[21:53:23] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> aea
-[21:53:28] [Server thread/INFO]: [Not Secure] [Server] deviste matar uno de level alto
-[21:53:39] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> pero... pero 190 de hp a un skeleton whiter
-[21:53:42] [Async Chat Thread - #8/INFO]: [Not Secure] <CHOMSKYby07> que abuso v
-[21:54:23] [User Authenticator #2/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
-[21:54:25] [Server thread/INFO]: Fernando_fyjjuk joined the game
-[21:54:25] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:57593] logged in with entity id 14785 at ([world]795.3159751991927, 61.51819211944703, -976.8886366372933)
-[21:55:11] [Server thread/INFO]: Villager Villager['Fletcher'/5936, uuid='161727bf-08f5-4895-a423-073f3861f78c', l='ServerLevel[world]', x=588.70, y=70.00, z=-1981.50, cpos=[36, -124], tl=23269, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:55:26] [Async Chat Thread - #10/INFO]: [Not Secure] <ReyEscarlata0_0> hasta cuantas veces puedes zombificar a un aldeano
-[21:55:30] [Async Chat Thread - #10/INFO]: [Not Secure] <ReyEscarlata0_0> cuantas rebajas
-[21:55:32] [Async Chat Thread - #10/INFO]: [Not Secure] <ReyEscarlata0_0> solo una?
-[21:55:34] [Server thread/INFO]: Villager Villager['Fletcher'/5935, uuid='e739a37b-a688-4fda-a82e-9e2f42eb5b8f', l='ServerLevel[world]', x=588.70, y=70.00, z=-1979.50, cpos=[36, -124], tl=23727, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:55:41] [Async Chat Thread - #10/INFO]: [Not Secure] <CHOMSKYby07> en la ultima actualizacion solo se puede hacer una vez
-[21:55:44] [Async Chat Thread - #10/INFO]: [Not Secure] <CHOMSKYby07> lo nerfearon xd
-[21:55:48] [Server thread/INFO]: Villager Villager['Fletcher'/5937, uuid='19a36f19-a8d7-4647-b261-df5a7e863303', l='ServerLevel[world]', x=588.70, y=70.00, z=-1977.50, cpos=[36, -124], tl=24017, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:55:48] [Async Chat Thread - #10/INFO]: [Not Secure] <ReyEscarlata0_0> was
-[21:56:24] [Server thread/INFO]: Villager Villager['Fletcher'/5934, uuid='33a61659-53e8-48e3-b413-8ca6ffd7a819', l='ServerLevel[world]', x=588.70, y=70.00, z=-1975.50, cpos=[36, -124], tl=24745, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:56:51] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Local Brewery]
-[21:56:55] [Server thread/INFO]: Villager Villager['Fletcher'/5939, uuid='bac7fb1f-65b5-4a94-8caa-62622e02aa89', l='ServerLevel[world]', x=588.70, y=70.00, z=-1973.50, cpos=[36, -124], tl=25349, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:57:04] [Server thread/INFO]: Villager Villager['Fletcher'/5938, uuid='6ee1f009-3cc8-449b-9464-4af30a27f444', l='ServerLevel[world]', x=588.70, y=70.00, z=-1971.50, cpos=[36, -124], tl=25533, v=true] died, message: 'Fletcher was slain by Etiquetaa'
-[21:58:17] [Async Chat Thread - #12/INFO]: [Not Secure] <CHOMSKYby07> eddy
-[21:58:18] [Async Chat Thread - #12/INFO]: [Not Secure] <CHOMSKYby07> mi elytra
-[21:58:22] [Async Chat Thread - #12/INFO]: [Not Secure] <CHOMSKYby07> aun no lo encuentro
-[21:58:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> chucha
-[21:58:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Fernando_fyjjuk> lo tiene me premo
-[21:59:22] [Server thread/WARN]: Fernando_fyjjuk moved too quickly! -17.61372249259105,-5.56160544185019,-12.71322444569887
-[21:59:25] [Async Chat Thread - #12/INFO]: [Not Secure] <ReyEscarlata0_0> quien hiso su fabrica de palos q bota botones
-[21:59:26] [Async Chat Thread - #12/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[21:59:33] [Async Chat Thread - #12/INFO]: [Not Secure] <CHOMSKYby07> sr eddy
-[21:59:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Fernando_fyjjuk> soy ese
-[22:01:13] [Server thread/INFO]: ReyEscarlata0_0 has reached the goal [Zombie Doctor]
-[22:01:49] [Async Chat Thread - #15/INFO]: [Not Secure] <ReyEscarlata0_0> waaaa zoombificar ya no rebaja nada
-[22:01:51] [Async Chat Thread - #15/INFO]: [Not Secure] <CHOMSKYby07> por cierto ahora la probabilidad de que un aldeano te rebaje auna esmeralda es minima xd solo los que te vendian libros a muy poco precio
-[22:02:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Fernando_fyjjuk> XDXDXD
-[22:02:04] [Async Chat Thread - #15/INFO]: [Not Secure] <CHOMSKYby07> XD
-[22:02:07] [Async Chat Thread - #14/INFO]: [Not Secure] <CHOMSKYby07> LLegue tarde
-[22:03:13] [Async Chat Thread - #16/INFO]: [Not Secure] <CHOMSKYby07> mas lana eddy :vvv
-[22:03:18] [Async Chat Thread - #16/INFO]: [Not Secure] <ReyEscarlata0_0> antes hace años cuando ustedes aun eran wawitas yo jugaba y hacia que los aldeanos me den esme a 1 palo
-[22:03:19] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:03:34] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> yo hacia lo mismo pero con cultivos xd
-[22:03:44] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> peero eso que te digo cambio creo en la 1.21
-[22:03:52] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> jasdjasjda
-[22:04:00] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> yo jugaba en la 1.16
-[22:04:02] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> erea gozu
-[22:04:21] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> yo no me acuerdo desde que tengo laptop por primera vez hice un mundo pero a deberitas
-[22:04:28] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> antes solo bedrock y me aburria xd
-[22:04:30] [Server thread/INFO]: ReyEscarlata0_0 has made the advancement [Ol' Betsy]
-[22:05:09] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> donde esta el end yo tmb quiero elitras
-[22:05:09] [Async Chat Thread - #17/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:05:17] [Async Chat Thread - #17/INFO]: [Not Secure] <Fernando_fyjjuk> go?
-[22:05:33] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> volvi
-[22:05:40] [Async Chat Thread - #17/INFO]: [Not Secure] <CHOMSKYby07> hilo eddy necesito andamios
-[22:06:42] [Async Chat Thread - #18/INFO]: [Not Secure] <Fernando_fyjjuk> como hago hilo?
-[22:06:52] [Async Chat Thread - #18/INFO]: [Not Secure] <CHOMSKYby07> ya no ya habia tenido los sufiente
-[22:07:48] [Async Chat Thread - #19/INFO]: [Not Secure] <CHOMSKYby07> no produce tanto
-[22:07:50] [Async Chat Thread - #19/INFO]: [Not Secure] <Fernando_fyjjuk> zZz
-[22:07:52] [Async Chat Thread - #19/INFO]: [Not Secure] <CHOMSKYby07> tengo que hacer la zona afk
-[22:08:01] [Async Chat Thread - #19/INFO]: [Not Secure] <CHOMSKYby07> awanta cabro :V
-[22:08:39] [Async Chat Thread - #19/INFO]: [Not Secure] <ReyEscarlata0_0> jajajaja voy a triangular la posicion del portal
-[22:09:29] [Server thread/INFO]: CHOMSKYby07 lost connection: Disconnected
-[22:09:29] [Server thread/INFO]: CHOMSKYby07 left the game
-[22:10:27] [User Authenticator #3/INFO]: UUID of player CHOMSKYby07 is 19b35e79-40a4-32b4-a052-cc4d629dd53a
-[22:10:27] [Server thread/INFO]: CHOMSKYby07 joined the game
-[22:10:27] [Server thread/INFO]: CHOMSKYby07[/127.173.137.253:51427] logged in with entity id 25322 at ([world]544.1398536557653, 71.0, -1951.0202606025803)
-[22:10:32] [Async Chat Thread - #20/INFO]: [Not Secure] <CHOMSKYby07> ai nos vidrios
-[22:11:39] [Async Chat Thread - #22/INFO]: [Not Secure] <CHOMSKYby07> duelman
-[22:12:02] [Server thread/INFO]: Villager Villager['Fletcher'/21943, uuid='26f64bd7-978c-4aa1-8c68-3f013b7439e0', l='ServerLevel[world]', x=588.31, y=71.00, z=-1979.31, cpos=[36, -124], tl=12686, v=true] died, message: 'Fletcher was slain by Zombie'
-[22:12:09] [Async Chat Thread - #22/INFO]: [Not Secure] <CHOMSKYby07> salte eddy :v
-[22:12:09] [Async Chat Thread - #22/INFO]: [Not Secure] <Fernando_fyjjuk> zzz
-[22:12:21] [Async Chat Thread - #22/INFO]: [Not Secure] <Fernando_fyjjuk> yo soy el que esta durmiendo
-[22:12:22] [Server thread/INFO]: CHOMSKYby07 lost connection: Disconnected
-[22:12:22] [Server thread/INFO]: CHOMSKYby07 left the game
-[22:12:31] [User Authenticator #4/INFO]: UUID of player CHOMSKYby07 is 19b35e79-40a4-32b4-a052-cc4d629dd53a
-[22:12:32] [Server thread/INFO]: CHOMSKYby07 joined the game
-[22:12:32] [Server thread/INFO]: CHOMSKYby07[/127.173.137.253:51845] logged in with entity id 26154 at ([world]540.5310392148838, 125.30311642575322, -1942.4293238692458)
-[22:14:11] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> me falto una puerda
-[22:14:13] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> puerta xd
-[22:14:28] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> dame tus elytras un rato eddy
-[22:14:30] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> wa bajar
-[22:14:40] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> dame agua
-[22:14:47] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> water drop
-[22:14:47] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> CUETESS
-[22:15:13] [Server thread/INFO]: Fernando_fyjjuk fell from a high place
-[22:15:15] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> XD
-[22:15:32] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> tengo la cord
-[22:15:32] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> mis niveles ctm
-[22:15:34] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> las cords
-[22:15:36] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> del portal
-[22:15:38] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> ya fuimos xd
-[22:15:39] [Async Chat Thread - #25/INFO]: [Not Secure] <ReyEscarlata0_0> pasa
-[22:15:49] [Async Chat Thread - #25/INFO]: [Not Secure] <ReyEscarlata0_0> para ver si concuerda con mi triangulacion
-[22:15:50] [Async Chat Thread - #25/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:16:00] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> 2261
-[22:16:11] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> -35
-[22:16:24] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> -593
-[22:16:29] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> van a ir?
-[22:16:34] [Async Chat Thread - #25/INFO]: [Not Secure] <ReyEscarlata0_0> yo si
-[22:16:38] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> les pido
-[22:16:40] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> 5 minutos
-[22:16:44] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> para la granja de polvora xd
-[22:16:48] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> vengan a la zona afk
-[22:17:12] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> suba arriba
-[22:17:12] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> hasta subir asi xd
-[22:17:23] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> yo tambien voy a ir al end
-[22:17:25] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> esque es mejor por ahora cuando tengas elytras es mas facil subir
-[22:17:32] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> eddy sube un rato para la zona afk
-[22:17:33] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> creo que mi prino no va a entrat
-[22:17:58] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> 5 minutos noma wa poner tiempo
-[22:18:35] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> afk desde ahora
-[22:19:04] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> sube eddy
-[22:19:33] [Server thread/INFO]: Fernando_fyjjuk fell from a high place
-[22:19:36] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> XDD
-[22:19:37] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> tmr
-[22:19:37] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> jajajaja
-[22:19:38] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> oee
-[22:20:00] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> 5 minutos noma pes 'v
-[22:20:01] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> hay un chingo de creepers
-[22:20:11] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> quiero ver cuanto produce en server con varias personas
-[22:20:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> pa que funcione gozu
-[22:20:52] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> sube p :v
-[22:20:55] [Async Chat Thread - #25/INFO]: [Not Secure] <Fernando_fyjjuk> habria que iluminar las cuevas
-[22:21:06] [Async Chat Thread - #25/INFO]: [Not Secure] <CHOMSKYby07> no
-[22:21:06] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> por algo el afk es arriba
-[22:21:07] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:21:11] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> por eso hago la zona de afk arriba
-[22:21:46] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> yo tenia la costumbre de hacer plataformas arriva para matar el tiempo
-[22:21:52] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> xd
-[22:21:53] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> y aqui cultivar
-[22:22:17] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> incluso era mi zona pvp
-[22:22:27] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> el que caia perdia p
-[22:22:39] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> waterdrof?
-[22:22:43] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> awanta oee
-[22:22:47] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> sigue afk
-[22:22:48] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> xd xd
-[22:22:55] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> o wasa weyna
-[22:23:04] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> yo wa estar afk
-[22:23:08] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> wa ir a apostar
-[22:23:08] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:23:12] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> queda
-[22:23:12] [Async Chat Thread - #24/INFO]: [Not Secure] <ReyEscarlata0_0> hablamos al rato
-[22:23:13] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> bajemos
-[22:23:14] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> xd
-[22:23:36] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> pa las plataformas que es
-[22:23:38] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> produce bien
-[22:23:51] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> suerme
-[22:23:59] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> al fast
-[22:23:59] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
-[22:23:59] [Server thread/INFO]: Fernando_fyjjuk left the game
-[22:24:02] [User Authenticator #5/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
-[22:24:03] [Server thread/INFO]: Fernando_fyjjuk joined the game
-[22:24:03] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:35807] logged in with entity id 29886 at ([world]539.49451847232, 66.52162510504405, -1958.512499988079)
-[22:24:18] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> la cosa es completar
-[22:24:27] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> las 15 plataformas que prometi xd
-[22:24:36] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> go end?
-[22:24:39] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> vayan
-[22:24:43] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> yo voy a terminar esta monda
-[22:25:01] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> yo are un acensor de agua hacia arriva
-[22:25:06] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> si?
-[22:25:07] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> mas despues
-[22:25:10] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> aqui
-[22:25:12] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> ya no ya
-[22:25:16] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> cuando tengas elytras
-[22:25:19] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> es mas facil subir asi
-[22:25:36] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> eddy
-[22:25:38] [Async Chat Thread - #24/INFO]: [Not Secure] <Fernando_fyjjuk> tmr
-[22:25:40] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> mi cubeta
-[22:25:43] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> toma las elytras
-[22:26:02] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> sigue afk :v
-[22:26:12] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> llamale dile que te siga al end
-[22:26:17] [Async Chat Thread - #24/INFO]: [Not Secure] <CHOMSKYby07> ya pase las cords del portal
-[22:27:21] [Async Chat Thread - #26/INFO]: [Not Secure] <CHOMSKYby07> eddy
-[22:27:22] [Async Chat Thread - #26/INFO]: [Not Secure] <CHOMSKYby07> n favor
-[22:27:26] [Async Chat Thread - #26/INFO]: [Not Secure] <CHOMSKYby07> hazme un corta piedras
-[22:27:30] [Async Chat Thread - #26/INFO]: [Not Secure] <Fernando_fyjjuk> ok
-[22:28:49] [Async Chat Thread - #28/INFO]: [Not Secure] <CHOMSKYby07> grash pa
-[22:28:51] [Async Chat Thread - #28/INFO]: [Not Secure] <CHOMSKYby07> llamale xd
-[22:28:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Fernando_fyjjuk> le robe a la otra aldea
-[22:28:55] [Async Chat Thread - #28/INFO]: [Not Secure] <CHOMSKYby07> no va a hacer caso
-[22:28:56] [Async Chat Thread - #28/INFO]: [Not Secure] <CHOMSKYby07> XDD
-[22:29:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Fernando_fyjjuk> ok
-[22:30:04] [Server thread/INFO]: ReyEscarlata0_0 fell from a high place
-[22:30:05] [Async Chat Thread - #30/INFO]: [Not Secure] <CHOMSKYby07> tmr
-[22:30:08] [Server thread/INFO]: CHOMSKYby07 lost connection: Disconnected
-[22:30:08] [Server thread/INFO]: CHOMSKYby07 left the game
-[22:30:09] [Async Chat Thread - #30/INFO]: [Not Secure] <Fernando_fyjjuk> XDXDXDXD
-[22:30:31] [Async Chat Thread - #30/INFO]: [Not Secure] <Fernando_fyjjuk> go en p
-[22:30:37] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> al rato
-[22:30:40] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> estoy apostando
-[22:30:45] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> fuliminense juega
-[22:30:45] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> xd
-[22:30:46] [Async Chat Thread - #30/INFO]: [Not Secure] <Fernando_fyjjuk> XD
-[22:31:05] [Async Chat Thread - #30/INFO]: [Not Secure] <ReyEscarlata0_0> hablamos al rato de media me contecto
-[22:31:07] [Server thread/INFO]: ReyEscarlata0_0 lost connection: Disconnected
-[22:31:07] [Server thread/INFO]: ReyEscarlata0_0 left the game
-[22:49:00] [Netty Epoll Server IO #0/INFO]: Disconnecting Fernando_fyjjuk for sending keepalive response (6650399) out-of-order!
-[22:49:00] [Server thread/INFO]: Fernando_fyjjuk lost connection: Timed out
-[22:49:00] [Server thread/INFO]: Fernando_fyjjuk left the game
-[22:49:20] [User Authenticator #6/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
-[22:49:29] [Server thread/INFO]: Fernando_fyjjuk joined the game
-[22:49:29] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:53913] logged in with entity id 39355 at ([world]540.654377225324, 191.0, -1939.300000011921)
-[22:57:14] [Server thread/INFO]: Fernando_fyjjuk was slain by Iron Golem ❤
-[23:41:57] [Server thread/INFO]: Fernando_fyjjuk fell from a high place
-[23:42:47] [Server thread/INFO]: Stopping the server
-[23:42:47] [Server thread/INFO]: Stopping server
-[23:42:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
-[23:42:47] [Server thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.23
-[23:42:47] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
-[23:42:47] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.2.3
-[23:42:47] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
-[23:42:47] [Server thread/INFO]: [LevelledMobs] Unregistering commands
-[23:42:47] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
-[23:42:47] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
-[23:42:47] [Craft Scheduler Thread - 7 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
-[23:42:47] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.7.3
-[23:42:47] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
-[23:42:47] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
-[23:42:47] [Craft Scheduler Thread - 6 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
-[23:42:47] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
-[23:42:47] [Server thread/INFO]: [GravesX] Unloading GraveManager...
-[23:42:47] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
-[23:42:47] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
-[23:42:47] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
-[23:42:47] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
-[23:42:47] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
-[23:42:47] [Server thread/INFO]: [GravesX] Shutdown Completed :)
-[23:42:47] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
-[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
-[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[23:42:47] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[23:42:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
-[23:42:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[23:42:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[23:42:47] [Server thread/INFO]: Saving players
-[23:42:47] [Server thread/INFO]: Fernando_fyjjuk lost connection: Server closed
-[23:42:47] [Server thread/INFO]: Fernando_fyjjuk left the game
-[23:42:48] [WebSocketConnectReadThread-116/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[23:42:48] [Server thread/INFO]: Saving worlds
-[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 53 block chunks, 252 entity chunks, 1 poi chunks in world 'world' in 0.17s
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 113 block chunks, 45 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[23:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[23:42:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:42:48] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[23:42:48] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[23:42:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[23:42:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[01:10:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:10:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[01:10:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:10:11] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:10:15] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3343ms.
+[01:10:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[01:10:15] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - Chunky (1.4.40), ChunkyBorder (1.2.23), DamageIndicator (2.2.3), Geyser-Spigot (2.8.3-SNAPSHOT), GravesX (4.9.7.3), SkinsRestorer (15.7.10), TreeFella (1.2), ViaVersion (5.4.2), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[01:10:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:10:21] [ServerMain/INFO]: Loaded 1407 recipes
+[01:10:21] [ServerMain/INFO]: Loaded 1520 advancements
+[01:10:21] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[01:10:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 429.2ms
+[01:10:22] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[01:10:22] [Server thread/INFO]: Loading properties
+[01:10:22] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[01:10:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:10:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:10:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:10:23] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:10:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:10:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:10:23] [Server thread/INFO]: Generating keypair
+[01:10:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:10:23] [Server thread/INFO]: Using epoll channel type
+[01:10:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:10:23] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:10:24] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[01:10:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:10:25] [Server thread/INFO]: [floodgate] Took 1,112ms to boot Floodgate
+[01:10:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[01:10:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[01:10:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:10:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:10:27] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[01:10:27] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:10:27] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:10:27] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[01:10:27] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.7.3
+[01:10:27] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.2.3
+[01:10:27] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[01:10:27] [Server thread/INFO]: [ChunkyBorder] Loading server plugin ChunkyBorder v1.2.23
+[01:10:27] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[01:10:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:10:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[01:10:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[01:10:28] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:10:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:10:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:10:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:10:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:10:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:10:29] [Server thread/INFO]: Preparing level "world"
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:10:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:10:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:10:29] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:30] [Server thread/INFO]: Preparing spawn area: 2%
+[01:10:30] [Server thread/INFO]: Preparing spawn area: 38%
+[01:10:30] [Server thread/INFO]: Time elapsed: 1112 ms
+[01:10:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:10:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:31] [Server thread/INFO]: Time elapsed: 200 ms
+[01:10:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:10:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:31] [Server thread/INFO]: Time elapsed: 138 ms
+[01:10:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[01:10:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[01:10:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[01:10:31] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[01:10:31] [Server thread/WARN]: [ViaVersion] ViaVersion only supports newer client versions. Use ViaBackwards to allow older versions (ViaRewind for 1.7/1.8) to join.
+[01:10:31] [Server thread/WARN]: [ViaVersion] Get setup help at https://viaversion.com/setup or download ViaBackwards/ViaRewind directly at https://ci.viaversion.com/
+[01:10:31] [Server thread/WARN]: [ViaVersion] Need more help? Join our Discord at https://viaversion.com/discord
+[01:10:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[01:10:33] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[01:10:33] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.7.3
+[01:10:33] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.0.0.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.0.0
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
+[01:10:33] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.0.0 and shaded successfully.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.47.0.0.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.47.0.0
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[01:10:33] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.47.0.0 successfully.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.json.json version 20240303.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.json:json:20240303
+[01:10:33] [Server thread/INFO]: [GravesX] Loaded library org.json.json version 20240303 successfully.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.6.5.
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.6.5
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.15.0
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.15.0
+[01:10:33] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.16
+[01:10:33] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.6.5 successfully.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
+[01:10:34] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.17.0.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.17.0 and shaded successfully.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.17.0.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.17.0 and shaded successfully.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.17.0.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.0.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[01:10:34] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.17.0 and shaded successfully.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.3.3.
+[01:10:34] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.3.3
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.3.3
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.3.3
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.0.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.3.3
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.3.3
+[01:10:35] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.3.3 and shaded successfully.
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
+[01:10:35] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.12.0.
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.12.0
+[01:10:35] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.14.0
+[01:10:35] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.12.0 and shaded successfully.
+[01:10:35] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
+[01:10:35] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
+[01:10:35] [Server thread/INFO]: [GravesX] Integration: Hooked into Minedown Adventure.
+[01:10:35] [Server thread/INFO]: [GravesX] Integration: Hooked into Geyser-Spigot 2.8.3-SNAPSHOT.
+[01:10:35] [Server thread/INFO]: [GravesX] Integration: Hooked into floodgate 2.2.4-SNAPSHOT (b118-40d320a).
+[01:10:35] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Starting...
+[01:10:36] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.pool.HikariPool] Graves H2 - Added connection conn1: url=jdbc:h2:file:/workspaces/Server-3.0/servidor_minecraft/plugins/GravesX/data/graves.data user=SA
+[01:10:36] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Start completed.
+[01:10:36] [Server thread/WARN]: [GravesX] SQLite database file or folder does not exist in "plugins/GravesX/data". Skipping database migration.
+[01:10:36] [Server thread/INFO]: [GravesX] Metrics has been enabled. All metrics will be sent to https://bstats.org/plugin/bukkit/Graves/12849 and https://bstats.org/plugin/bukkit/GravesX/23069.
+[01:10:36] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.2.3
+[01:10:36] [Server thread/INFO]: [DamageIndicator] Using server version accessor for 1.21.7
+[01:10:36] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[01:10:36] [Server thread/INFO]: [ChunkyBorder] Enabling ChunkyBorder v1.2.23
+[01:10:36] [Server thread/INFO]: [spark] Starting background profiler...
+[01:10:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:10:37] [Server thread/INFO]: [Geyser-Spigot] 
+[01:10:37] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b903 (git-master-61a1ddd)
+[01:10:37] [Server thread/INFO]: [Geyser-Spigot] 
+[01:10:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:10:41] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:10:41] [Server thread/INFO]: [Geyser-Spigot] Done (4.189s)! Run /geyser help for help!
+[01:10:41] [Server thread/INFO]: Done preparing level "world" (12.395s)
+[01:10:41] [Server thread/INFO]: Running delayed init tasks
+[01:10:41] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:10:41] [Server thread/INFO]: [GravesX] Registering Crash Handler...
+[01:10:41] [Server thread/INFO]: [GravesX] Registered Crash Handler. Server will handle crashes in a separate thread.
+[01:10:41] [Server thread/INFO]: Done (31.994s)! For help, type "help"
+[01:10:41] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loading grave maps...
+[01:10:41] [Craft Scheduler Thread - 1 - GravesX/WARN]: [GravesX] Grave 2b25cc3a-36ae-4876-b4ec-8548322bd015 at location World: world, x: -3129, y: -23, z: -3216 is invalid. If this was caused by an addon, then report it to the plugin author. Reason: owner_texture is null, owner_texture_signature is null, killer_type is null
+[01:10:41] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loaded 1 grave maps into cache.
+[01:10:41] [Craft Scheduler Thread - 5 - GravesX/INFO]: [GravesX] Loading Holograms into Hologram Map Cache...
+[01:10:41] [Craft Scheduler Thread - 7 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for armorstand...
+[01:10:41] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loading Block Map cache...
+[01:10:41] [Craft Scheduler Thread - 7 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for armorstand.
+[01:10:41] [Craft Scheduler Thread - 1 - GravesX/INFO]: [GravesX] Loaded 1 Blocks into the Block Map Cache.
+[01:10:41] [Craft Scheduler Thread - 8 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for itemframe...
+[01:10:41] [Craft Scheduler Thread - 8 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for itemframe.
+[01:10:41] [Craft Scheduler Thread - 5 - GravesX/INFO]: [GravesX] Loaded 3 Holograms into Hologram Map Cache.
+[01:10:41] [Craft Scheduler Thread - 0 - GravesX/WARN]: [GravesX] You are using an outdated version of GravesX.
+[01:10:41] [Craft Scheduler Thread - 0 - GravesX/WARN]: [GravesX] Installed Version: 4.9.7.3
+[01:10:41] [Craft Scheduler Thread - 0 - GravesX/WARN]: [GravesX] Latest Version:  4.9.8.3
+[01:10:41] [Craft Scheduler Thread - 0 - GravesX/WARN]: [GravesX] Grab the latest release from https://www.spigotmc.org/resources/118271/
+[01:10:58] [User Authenticator #0/INFO]: UUID of player CHOMSKYby07 is 19b35e79-40a4-32b4-a052-cc4d629dd53a
+[01:10:58] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[01:11:00] [Server thread/INFO]: CHOMSKYby07 joined the game
+[01:11:00] [Server thread/INFO]: CHOMSKYby07[/127.173.137.253:47965] logged in with entity id 16 at ([world]536.9995150962708, 89.0, -1936.3280496427833)
+[01:11:16] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> ERES UN SONSO
+[01:11:18] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> XDDDDDDDDDDDDDDDD
+[01:11:19] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> csmr
+[01:11:35] [Server thread/INFO]: [Not Secure] [Server] lo se
+[01:11:59] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> TMR EDDY
+[01:12:07] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> ahora tengo que abrirlo
+[01:12:10] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> uno por uno
+[01:12:12] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> lo malo
+[01:12:15] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> es que hay crepers
+[01:12:56] [Server thread/INFO]: [Not Secure] [Server] XDXDXD
+[01:12:59] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> tmr
+[01:13:00] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> :V
+[01:13:11] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> quien murio?
+[01:13:15] [Async Chat Thread - #0/INFO]: [Not Secure] <CHOMSKYby07> ahi estan unas cosas
+[01:14:24] [Server thread/INFO]: --------- Help: Index ---------------------------------
+[01:14:24] [Server thread/INFO]: Use /help [n] to get page n of help.
+[01:14:24] [Server thread/INFO]: Aliases: Lists command aliases
+[01:14:24] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[01:14:24] [Server thread/INFO]: Chunky: All commands for Chunky
+[01:14:24] [Server thread/INFO]: DamageIndicator: All commands for DamageIndicator
+[01:14:24] [Server thread/INFO]: floodgate: All commands for floodgate
+[01:14:24] [Server thread/INFO]: Geyser-Spigot: All commands for Geyser-Spigot
+[01:14:24] [Server thread/INFO]: GravesX: All commands for GravesX
+[01:14:24] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[01:14:24] [Server thread/INFO]: Paper: All commands for Paper
+[01:14:24] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
+[01:14:24] [Server thread/INFO]: ViaVersion: All commands for ViaVersion
+[01:14:24] [Server thread/INFO]: /about: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /advancement: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /attribute: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /ban: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /banlist: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /bukkit:about: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /bukkit:pl: Gets a list of plugins running on the server
+[01:14:24] [Server thread/INFO]: /bukkit:plugins: Gets a list of plugins running on the server
+[01:14:24] [Server thread/INFO]: /bukkit:ver: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /bukkit:version: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /chunky: Generates chunks
+[01:14:24] [Server thread/INFO]: /clear: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /clone: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /damage: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /damageindicator: Reload
+[01:14:24] [Server thread/INFO]: /data: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /datapack: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /debug: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /deop: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /dialog: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /effect: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /enchant: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /execute: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /experience: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /fill: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /floodgate: A set of Floodgate related actions in one command
+[01:14:24] [Server thread/INFO]: /forceload: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /function: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /fwhitelist: Easy way to whitelist Bedrock players
+[01:14:24] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /geyser: 
+[01:14:24] [Server thread/INFO]: /geyser-spigot:geyser: 
+[01:14:24] [Server thread/INFO]: /give: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /graves: Graves command
+[01:14:24] [Server thread/INFO]: /help: Shows the help menu
+[01:14:24] [Server thread/INFO]: /item: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /jfr: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /kick: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /kill: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /linkaccount: Link your Java account with your Bedrock account
+[01:14:24] [Server thread/INFO]: /list: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /locate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /loot: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /me: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:advancement: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:attribute: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:bossbar: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:clone: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:damage: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:data: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:datapack: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:debug: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:defaultgamemode: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:deop: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:dialog: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:difficulty: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:execute: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:experience: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:fill: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:fillbiome: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:forceload: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:function: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:jfr: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:loot: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:op: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:pardon-ip: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:particle: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:perf: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:place: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:playsound: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:random: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:return: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:rotate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:save-all: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:save-off: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:save-on: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:say: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:scoreboard: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:seed: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:setblock: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:setidletimeout: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:setworldspawn: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:spawnpoint: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:spectate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:spreadplayers: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:stop: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:stopsound: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:summon: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tag: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:team: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:teammsg: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tellraw: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:test: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tick: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:title: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tm: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:transfer: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:trigger: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:version: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:waypoint: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:whitelist: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:worldborder: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /msg: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /mspt: View server tick times
+[01:14:24] [Server thread/INFO]: /op: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /paper: Paper related commands
+[01:14:24] [Server thread/INFO]: /paper:spark: 
+[01:14:24] [Server thread/INFO]: /pardon: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /particle: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /perf: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /pl: Gets a list of plugins running on the server
+[01:14:24] [Server thread/INFO]: /place: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /playsound: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[01:14:24] [Server thread/INFO]: /random: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /recipe: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /reload: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /restart: Restarts the server
+[01:14:24] [Server thread/INFO]: /return: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /ride: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /rotate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /save-all: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /save-off: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /save-on: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /say: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /schedule: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /seed: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /setblock: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /skin: Changes your own skin.
+[01:14:24] [Server thread/INFO]: /skins: Opens the skins GUI.
+[01:14:24] [Server thread/INFO]: /skull: Gives you a skull.
+[01:14:24] [Server thread/INFO]: /spark: 
+[01:14:24] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /spectate: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /spigot: Spigot related commands
+[01:14:24] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
+[01:14:24] [Server thread/INFO]: /stop: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /summon: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tag: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /team: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /teleport: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tell: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /test: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tick: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /time: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[01:14:24] [Server thread/INFO]: /title: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tm: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tp: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[01:14:24] [Server thread/INFO]: /transfer: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /trigger: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /unlinkaccount: Unlink your Java account from your Bedrock account
+[01:14:24] [Server thread/INFO]: /ver: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[01:14:24] [Server thread/INFO]: /viaversion: Shows ViaVersion Version and more.
+[01:14:24] [Server thread/INFO]: /w: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /waypoint: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /weather: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[01:14:24] [Server thread/INFO]: /xp: A Mojang provided command.
+[01:14:28] [Server thread/INFO]: [Not Secure] [Server] ?
+[01:14:44] [Server thread/INFO]: [Not Secure] [Server] pera ahorita entro
+[01:15:42] [User Authenticator #1/INFO]: UUID of player Fernando_fyjjuk is aeb1b697-fc7e-3e14-a02d-8ff5941126a0
+[01:15:43] [Server thread/INFO]: Fernando_fyjjuk joined the game
+[01:15:43] [Server thread/INFO]: Fernando_fyjjuk[/127.128.11.226:58151] logged in with entity id 1128 at ([world]530.3676757294618, 71.0, -1944.082051596062)
+[01:16:02] [Async Chat Thread - #3/INFO]: [Not Secure] <Fernando_fyjjuk> si mano soy pendejo
+[01:16:11] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> por tu culpa se daño la granja :v
+[01:16:12] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> tmr
+[01:16:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Fernando_fyjjuk> cayeron mal los coetes xdxd
+[01:17:10] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> vamono
+[01:17:19] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> carajo
+[01:17:22] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> faltan las alfombras
+[01:18:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Fernando_fyjjuk> falta mi pechera
+[01:18:34] [Async Chat Thread - #3/INFO]: [Not Secure] <CHOMSKYby07> duerme porfa
+[01:18:37] [Server thread/INFO]: Fernando_fyjjuk lost connection: Disconnected
+[01:18:37] [Server thread/INFO]: Fernando_fyjjuk left the game
